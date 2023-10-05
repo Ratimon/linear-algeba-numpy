@@ -1,1 +1,1 @@
-# linear-algeba-numpy
+# Linear Algeba Snippet in Numpy
